@@ -1,0 +1,12 @@
+Package: perl-asterisk-fastagi
+Version: 0.02-1
+Architecture: all
+Maintainer: Zuev Mihail <z.m.c@list.ru>
+Installed-Size: 15
+Depends: perl-base, libnet-server-perl, libasterisk-agi-perl
+Section: perl
+Priority: optional
+Homepage: https://metacpan.org/pod/Asterisk::FastAGI
+Description: Asterisk-FastAGI - Perl module
+ Asterisk::FastAGI provides a preforking daemon for handling FastAGI requests from Asterisk.
+ .
